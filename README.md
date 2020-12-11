@@ -17,7 +17,7 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umbertogriffo&show_icons=true&locale=en" alt="umbertogriffo" /></p> -->
 
-<hr>
+<h1 align="center">&nbsp;</h1>
 <p align="center">
   <i>Let's connect and chat!</i>
   <p align="center">
