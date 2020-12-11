@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umberto</h1>
 <h3 align="center">A passionate Data Engineer from Lisbon</h3>
 
-- 🔭 I’m currently working at [tb.lx by Daimler Trucks & Buses](https://tblx.io/) where I'm implementing scalable Data Pipelines in batch and streaming to feed event-driven applications as well as developing Machine Learning models for Predictive Maintenance solutions.``
+- 🔭 I’m currently working at [tb.lx by Daimler Trucks & Buses](https://tblx.io/) where I'm implementing scalable Data Pipelines in batch and streaming to feed event-driven applications as well as developing Machine Learning models for Predictive Maintenance solutions.
 
 - 👨‍💻 All of my open-source projects are available here on Github
 
