@@ -25,8 +25,8 @@
     <a href="https://twitter.com/umbertogriffo" target="blank"><img align="center" src="https://github.com/umbertogriffo/umbertogriffo/blob/main/img/twitter-line.svg" alt="umbertogriffo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/umbertogriffo" target="blank"><img align="center" src="https://raw.githubusercontent.com/umbertogriffo/umbertogriffo/main/img/linkedin-fill.svg" alt="umbertogriffo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6271839" target="blank"><img align="center" src="https://raw.githubusercontent.com/umbertogriffo/umbertogriffo/main/img/stack-overflow-line.svg" alt="6271839" height="30" width="40" /></a>
-<a href="https://kaggle.com/umbertogriffo" target="blank"><img align="center" src="https://raw.githubusercontent.com/umbertogriffo/umbertogriffo/main/img/kaggle-icon.svg" alt="umbertogriffo" height="30" width="40" /></a>
 <a href="https://medium.com/@umberto.griffo" target="blank"><img align="center" src="https://raw.githubusercontent.com/umbertogriffo/umbertogriffo/main/img/medium-fill.svg" alt="@umberto.griffo" height="30" width="40" /></a>
+<a href="https://kaggle.com/umbertogriffo" target="blank"><img align="center" src="https://raw.githubusercontent.com/umbertogriffo/umbertogriffo/main/img/kaggle-icon.svg" alt="umbertogriffo" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/umberto_griffo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="umberto_griffo" height="30" width="40" /></a> -->
 </p>
 
