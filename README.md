@@ -13,15 +13,13 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umbertogriffo&show_icons=true&locale=en&layout=compact" alt="umbertogriffo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umbertogriffo&show_icons=true&locale=en&layout=compact" alt="umbertogriffo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umbertogriffo&show_icons=true&locale=en" alt="umbertogriffo" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umbertogriffo&show_icons=true&locale=en" alt="umbertogriffo" /></p> -->
 
 <hr>
 <p align="center">
   <i>Let's connect and chat!</i>
-
-
   <p align="center">
     <a href="https://twitter.com/umbertogriffo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="umbertogriffo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/umbertogriffo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="umbertogriffo" height="30" width="40" /></a>
