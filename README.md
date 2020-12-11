@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How we reduced our Apache Spark cluster cost using best practices](https://medium.com/tblx-insider/how-we-reduced-our-apache-spark-cluster-cost-using-best-practices-ac1f176379ac?source=rss-7beb11b667bb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umbertogriffo&show_icons=true&locale=en&layout=compact" alt="umbertogriffo" /></p>
