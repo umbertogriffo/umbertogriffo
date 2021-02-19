@@ -14,6 +14,8 @@
 - [How to Operationalize your Computer Vision Models: a step-by-step tutorial](https://medium.com/@umberto-griffo/how-to-operationalize-your-computer-vision-models-a-step-by-step-tutorial-5afc559b9cbd?source=rss-7beb11b667bb------2)
 - [How we reduced our Apache Spark cluster cost using best practices](https://medium.com/tblx-insider/how-we-reduced-our-apache-spark-cluster-cost-using-best-practices-ac1f176379ac?source=rss-7beb11b667bb------2)
 <!-- BLOG-POST-LIST:END -->
+
+### Guides
 - [Apache Spark - Best Practices and Tuning](https://umbertogriffo.gitbook.io/apache-spark-best-practices-and-tuning/)
 
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umbertogriffo&show_icons=true&locale=en&layout=compact" alt="umbertogriffo" /></p> -->
