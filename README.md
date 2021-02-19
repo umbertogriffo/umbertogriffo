@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my open-source projects are available here on Github
 
-- 📝 I sometimes write articles on [Medium](https://medium.com/@umberto.griffo)
+- 📝 I sometimes write articles on [Medium](https://medium.com/@umberto-griffo)
 
 - 💬  Ask me about anything, I am happy to help
 
