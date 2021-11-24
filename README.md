@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umberto</h1>
-<h3 align="center">A passionate Data Engineer from Lisbon</h3>
+<h3 align="center">A passionate Data/Machine Learning Engineer from Lisbon</h3>
 
-- 🔭 I’m currently working at [tb.lx by Daimler Trucks & Buses](https://tblx.io/) where I'm implementing scalable Data Pipelines in batch and streaming to feed event-driven applications as well as developing Machine Learning models for Predictive Maintenance solutions.
+- :telescope: I’m currently working at [Bose](https://www.bose.com/en_us/index.html) where I'm enhancing the Bose Data Platform in leading and supporting Advanced Analytics & AI/ML workloads and applying MLOps best practices to help Data Scientists taking their models to production.
 
 - 👨‍💻 All of my open-source projects are available here on Github
 
@@ -21,7 +21,6 @@
     <a href="https://twitter.com/umbertogriffo" target="blank"><img align="center" src="https://github.com/umbertogriffo/umbertogriffo/blob/main/img/twitter-line.svg" alt="umbertogriffo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/umbertogriffo" target="blank"><img align="center" src="https://raw.githubusercontent.com/umbertogriffo/umbertogriffo/main/img/linkedin-fill.svg" alt="umbertogriffo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6271839" target="blank"><img align="center" src="https://raw.githubusercontent.com/umbertogriffo/umbertogriffo/main/img/stack-overflow-line.svg" alt="6271839" height="30" width="40" /></a>
-<a href="https://medium.com/@umberto.griffo" target="blank"><img align="center" src="https://raw.githubusercontent.com/umbertogriffo/umbertogriffo/main/img/medium-fill.svg" alt="@umberto.griffo" height="30" width="40" /></a>
 <a href="https://kaggle.com/umbertogriffo" target="blank"><img align="center" src="https://raw.githubusercontent.com/umbertogriffo/umbertogriffo/main/img/kaggle-icon.svg" alt="umbertogriffo" height="23" width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/umberto_griffo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="umberto_griffo" height="30" width="40" /></a> -->
 </p>
