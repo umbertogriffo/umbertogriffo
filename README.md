@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Umberto</h1>
 <h3 align="center">A passionate Data/Machine Learning Engineer based in Lisbon</h3>
 
-- :oncoming_automobile: I’m currently working at [Cazoo](https://www.cazoo.co.uk/).
+- :tooth: I’m currently working at [Promaton](https://www.promaton.com/).
+
+- :oncoming_automobile: I developed an MLOps framework at [Cazoo](https://www.cazoo.co.uk/) supporting their data science community with deploying, updating and maintaining models at scale.
 
 - :telescope: I was working at [Bose](https://www.bose.com/en_us/index.html) where I was enhancing the Bose Data Platform in leading and supporting Advanced Analytics & AI/ML workloads and applying MLOps best practices to help Data Scientists taking their models to production.
 
