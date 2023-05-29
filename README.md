@@ -32,5 +32,7 @@
 <!-- <a href="https://www.hackerrank.com/umberto_griffo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="umberto_griffo" height="30" width="40" /></a> -->
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umbertogriffo)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=umbertogriffo&label=Profile%20views&color=0e75b6&style=flat" alt="umbertogriffo" /> </p>
 
