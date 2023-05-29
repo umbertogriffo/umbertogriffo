@@ -17,6 +17,8 @@
 - [Apache Spark - Best Practices and Tuning](https://umbertogriffo.gitbook.io/apache-spark-best-practices-and-tuning/)
 - [How to quickly reproduce your Computer Vision Models](https://umbertogriffo.gitbook.io/how-to-quickly-reproduce-your-computer-vision-mode/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umbertogriffo)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umbertogriffo&show_icons=true&locale=en&layout=compact" alt="umbertogriffo" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umbertogriffo&show_icons=true&locale=en" alt="umbertogriffo" /></p> -->
@@ -31,8 +33,6 @@
 <a href="https://kaggle.com/umbertogriffo" target="blank"><img align="center" src="https://raw.githubusercontent.com/umbertogriffo/umbertogriffo/main/img/kaggle-icon.svg" alt="umbertogriffo" height="23" width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/umberto_griffo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="umberto_griffo" height="30" width="40" /></a> -->
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umbertogriffo)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=umbertogriffo&label=Profile%20views&color=0e75b6&style=flat" alt="umbertogriffo" /> </p>
 
