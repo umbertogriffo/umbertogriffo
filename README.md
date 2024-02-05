@@ -25,7 +25,7 @@
 <p align="center">
   <i>Let's connect and chat!</i>
   <p align="center">
-    <a href="https://twitter.com/umbertogriffo" target="blank"><img align="center" src="https://github.com/umbertogriffo/umbertogriffo/blob/main/img/twitter-line.svg" alt="umbertogriffo" height="30" width="40" /></a>
+    <a href="https://twitter.com/umbertogriffo" target="blank"><img align="center" src="https://github.com/umbertogriffo/umbertogriffo/blob/main/img/twitter-line.png" alt="umbertogriffo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/umbertogriffo" target="blank"><img align="center" src="https://raw.githubusercontent.com/umbertogriffo/umbertogriffo/main/img/linkedin-fill.svg" alt="umbertogriffo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6271839" target="blank"><img align="center" src="https://raw.githubusercontent.com/umbertogriffo/umbertogriffo/main/img/stack-overflow-line.svg" alt="6271839" height="30" width="40" /></a>
 <a href="https://kaggle.com/umbertogriffo" target="blank"><img align="center" src="https://raw.githubusercontent.com/umbertogriffo/umbertogriffo/main/img/kaggle-icon.svg" alt="umbertogriffo" height="23" width="40" /></a>
