@@ -5,11 +5,11 @@
 
 - :oncoming_automobile: I developed an MLOps framework at [Cazoo](https://www.cazoo.co.uk/) to support the data science community with deploying, updating and maintaining models at scale.
 
-- :telescope: I was working at [Bose](https://www.bose.com/en_us/index.html) where I was enhancing the Bose Data Platform in leading and supporting Advanced Analytics & AI/ML workloads and applying MLOps best practices to help Data Scientists taking their models to production.
+- :telescope: I was working at [Bose](https://www.bose.com/en_us/index.html) where I was enhancing the Bose Data Platform in leading and supporting Analytics & AI/ML workloads and applying MLOps best practices to help Data Scientists taking their models to production.
 
 - :bus: I have been working for a while at [tb.lx by Daimler Trucks & Buses](https://tblx.io/) where I implemented scalable Data Pipelines in batch and streaming to feed event-driven applications as well as developed Machine Learning models for Predictive Maintenance solutions.
 
-- 👨‍💻 All of my open-source projects are available here on Github
+- 👨‍💻 All of my open-source projects are available here on GitHub
 
 - 💬  Ask me about anything, I am happy to help
 
