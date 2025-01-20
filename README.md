@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my open-source projects are available here on GitHub
 
-- 💬  Ask me about anything. I am happy to help
+- 💬  Ask me about anything. I am happy to help!
 
 ### Guides
 - [Apache Spark - Best Practices and Tuning](https://umbertogriffo.gitbook.io/apache-spark-best-practices-and-tuning/)
