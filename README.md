@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umberto</h1>
 <h3 align="center">A passionate Data/Machine Learning Engineer based in Lisbon</h3>
 
-- :tooth: I’m currently working at [Promaton](https://www.promaton.com/).
+- :tooth: I’m currently working at [Promaton](https://www.promaton.com/), where I am productionizing ML models into customer-facing products to make complex dental workflows safer, faster and more accessible.
 
 - :oncoming_automobile: I developed an MLOps framework at [Cazoo](https://www.cazoo.co.uk/) to support the data science community in deploying, updating, and maintaining models at scale.
 
