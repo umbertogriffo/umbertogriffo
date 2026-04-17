@@ -17,10 +17,6 @@
 - [Apache Spark - Best Practices and Tuning](https://umbertogriffo.gitbook.io/apache-spark-best-practices-and-tuning/)
 - [How to quickly reproduce your Computer Vision Models](https://umbertogriffo.gitbook.io/how-to-quickly-reproduce-your-computer-vision-mode/)
 
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umbertogriffo&show_icons=true&locale=en&layout=compact" alt="umbertogriffo" /></p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umbertogriffo&show_icons=true&locale=en" alt="umbertogriffo" /></p> -->
-
 <h1 align="center">&nbsp;</h1>
 <p align="center">
   <i>Let's connect and chat!</i>
