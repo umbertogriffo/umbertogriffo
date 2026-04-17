@@ -24,13 +24,11 @@
 <h1 align="center">&nbsp;</h1>
 <p align="center">
   <i>Let's connect and chat!</i>
-  <p align="center">
-    <a href="https://twitter.com/umbertogriffo" target="blank"><img align="center" src="https://raw.githubusercontent.com/umbertogriffo/umbertogriffo/main/img/twitter-line.png" alt="umbertogriffo" height="25" width="25" /></a>&nbsp;&nbsp;
+</p>
+<a href="https://twitter.com/umbertogriffo" target="blank"><img align="center" src="https://raw.githubusercontent.com/umbertogriffo/umbertogriffo/main/img/twitter-line.png" alt="umbertogriffo" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/umbertogriffo" target="blank"><img align="center" src="https://raw.githubusercontent.com/umbertogriffo/umbertogriffo/main/img/linkedin-fill.svg" alt="umbertogriffo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6271839" target="blank"><img align="center" src="https://raw.githubusercontent.com/umbertogriffo/umbertogriffo/main/img/stack-overflow-line.svg" alt="6271839" height="30" width="40" /></a>
 <a href="https://kaggle.com/umbertogriffo" target="blank"><img align="center" src="https://raw.githubusercontent.com/umbertogriffo/umbertogriffo/main/img/kaggle-icon.svg" alt="umbertogriffo" height="23" width="40" /></a>
-    </p>
-</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=umbertogriffo&label=Profile%20views&color=0e75b6&style=flat" alt="umbertogriffo" /> </p>
 
